@@ -27,8 +27,8 @@ pip install requests python-dotenv
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/manavumd/RH-Smith-Crawler
+cd cd RH\ Smith\ Crawler/
 ```
 
 ### 2. Create a `.env` File
