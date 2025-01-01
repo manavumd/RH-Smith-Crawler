@@ -66,7 +66,6 @@ python getContactInfo.py
    |-------------------------------------------|--------------|-----------------|-------------|---------------------|
    | https://www.rhsmith.umd.edu/directory/jie-zhang | Jie Zhang    | jiejie@umd.edu  | 301-405-7899 | 3311 Van Munching Hall |
 
-3. **scrape_log.log**: A log file with progress updates and errors.
 
 ## Script Details
 
